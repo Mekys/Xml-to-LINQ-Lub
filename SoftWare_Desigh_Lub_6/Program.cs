@@ -4,7 +4,7 @@ using System.Net.Http.Headers;
 using System.Xml.Linq;
 
 
-//1 задача
+//1 задача d
 new XDocument(new XElement("root", File.ReadAllLines("../../../input/input_1.txt").Select(x => new XElement("line", x)))).Save("../../../output/output_1.xml");
 
 //11 задача
