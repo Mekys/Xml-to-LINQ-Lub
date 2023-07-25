@@ -1,0 +1,169 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<station company="Лидер">
+		<info street="ул.Чехова">
+			<brand>92</brand>
+			<price>2200</price>
+		</info>
+	</station>
+	<station company="Лидер">
+		<info street="ул.Чехова">
+			<brand>90</brand>
+			<price>200</price>
+		</info>
+	</station>
+	<station company="Лидер">
+		<info street="ул.Чехова">
+			<brand>2</brand>
+			<price>2200</price>
+		</info>
+	</station>
+	<station company="Лидер">
+		<info street="ул.Чехова">
+			<brand>52</brand>
+			<price>2200</price>
+		</info>
+	</station>
+	<station company="Лидер">
+		<info street="ул.Чехова">
+			<brand>62</brand>
+			<price>2200</price>
+		</info>
+	</station>
+	<station company="Лидер">
+		<info street="ул.Чехова">
+			<brand>99</brand>
+			<price>2200</price>
+		</info>
+	</station>
+	<station company="Лидер">
+		<info street="ул.Чехова">
+			<brand>78</brand>
+			<price>2200</price>
+		</info>
+	</station>	<station company="Пермь">
+		<info street="ул.Чехова">
+			<brand>92</brand>
+			<price>2200</price>
+		</info>
+	</station>
+	<station company="Пермь">
+		<info street="ул.Чехова">
+			<brand>90</brand>
+			<price>200</price>
+		</info>
+	</station>
+	<station company="Пермь">
+		<info street="ул.Чехова">
+			<brand>2</brand>
+			<price>2200</price>
+		</info>
+	</station>
+	<station company="Пермь">
+		<info street="ул.Чехова">
+			<brand>52</brand>
+			<price>2200</price>
+		</info>
+	</station>
+	<station company="Пермь">
+		<info street="ул.Чехова">
+			<brand>62</brand>
+			<price>2200</price>
+		</info>
+	</station>
+	<station company="Пермь">
+		<info street="ул.Чехова">
+			<brand>99</brand>
+			<price>2200</price>
+		</info>
+	</station>
+	<station company="Пермь">
+		<info street="ул.Чехова">
+			<brand>78</brand>
+			<price>2200</price>
+		</info>
+	</station>
+	<station company="Лидер">
+		<info street="ул.Бульвар Гагарина">
+			<brand>92</brand>
+			<price>2200</price>
+		</info>
+	</station>
+	<station company="Лидер">
+		<info street="ул.Бульвар Гагарина">
+			<brand>90</brand>
+			<price>200</price>
+		</info>
+	</station>
+	<station company="Лидер">
+		<info street="ул.Бульвар Гагарина">
+			<brand>2</brand>
+			<price>2200</price>
+		</info>
+	</station>
+	<station company="Лидер">
+		<info street="ул.Бульвар Гагарина">
+			<brand>52</brand>
+			<price>2200</price>
+		</info>
+	</station>
+	<station company="Лидер">
+		<info street="ул.Бульвар Гагарина">
+			<brand>62</brand>
+			<price>2200</price>
+		</info>
+	</station>
+	<station company="Лидер">
+		<info street="ул.Бульвар Гагарина">
+			<brand>99</brand>
+			<price>2200</price>
+		</info>
+	</station>
+	<station company="Лидер">
+		<info street="ул.Бульвар Гагарина">
+			<brand>78</brand>
+			<price>2200</price>
+		</info>
+	</station>	<station company="Пермь">
+		<info street="ул.Бульвар Гагарина">
+			<brand>92</brand>
+			<price>2200</price>
+		</info>
+	</station>
+	<station company="Пермь">
+		<info street="ул.Бульвар Гагарина">
+			<brand>90</brand>
+			<price>200</price>
+		</info>
+	</station>
+	<station company="Пермь">
+		<info street="ул.Бульвар Гагарина">
+			<brand>2</brand>
+			<price>2200</price>
+		</info>
+	</station>
+	<station company="Пермь">
+		<info street="ул.Бульвар Гагарина">
+			<brand>52</brand>
+			<price>2200</price>
+		</info>
+	</station>
+	<station company="Пермь">
+		<info street="ул.Бульвар Гагарина">
+			<brand>62</brand>
+			<price>2200</price>
+		</info>
+	</station>
+	<station company="Пермь">
+		<info street="ул.Бульвар Гагарина">
+			<brand>99</brand>
+			<price>2200</price>
+		</info>
+	</station>
+	<station company="Пермь">
+		<info street="ул.Бульвар Гагарина">
+			<brand>78</brand>
+			<price>2200</price>
+		</info>
+	</station>
+</root>

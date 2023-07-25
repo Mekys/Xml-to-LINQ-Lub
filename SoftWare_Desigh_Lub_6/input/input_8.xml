@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<station street="ул.Авиаторов" company="Лидер">
+		<info brand="98" price="2850" />
+	</station>
+	<station street="ул.Авиаторов" company="Лидер">
+		<info brand="9" price="2850" />
+	</station>
+	<station street="ул.Авиаторов" company="Лидер">
+		<info brand="38" price="2850" />
+	</station>
+	<station street="ул.Авиаторов" company="Лидер">
+		<info brand="44" price="2850" />
+	</station>
+	<station street="ул.Авиаторов" company="Лидер">
+		<info brand="55" price="2850" />
+	</station>
+	<station street="ул.Авиаторов" company="Лидер">
+		<info brand="44" price="2850" />
+	</station>
+	<station street="ул.Авиаторов" company="Лидер">
+		<info brand="9" price="250" />
+	</station>
+	<station street="ул.Авиаторов" company="Лидер">
+		<info brand="98" price="285" />
+	</station>
+	<station street="ул.Авиаторов" company="Лидер">
+		<info brand="44" price="5850" />
+	</station>
+	<station street="ул.Авиаторов" company="Лидер">
+		<info brand="98" price="2880" />
+	</station>
+	<station street="ул.Авиаторов" company="Лидер">
+		<info brand="9" price="50" />
+	</station>
+	<station street="ул.Авиаторов" company="Лидер">
+		<info brand="38" price="2" />
+	</station>
+	<station street="ул.Авиаторов" company="Лидер">
+		<info brand="44" price="850" />
+	</station>
+	<station street="ул.Авиаторов" company="Лидер">
+		<info brand="55" price="250" />
+	</station>
+	<station street="ул.Авиаторов" company="Лидер">
+		<info brand="44" price="280" />
+	</station>
+	<station street="ул.Авиаторов" company="Лидер">
+		<info brand="9" price="285" />
+	</station>
+	<station street="ул.Авиаторов" company="Пермь">
+		<info brand="98" price="280" />
+	</station>
+	<station street="ул.Чкалова" company="Лидер">
+		<info brand="44" price="250" />
+	</station>
+</root>

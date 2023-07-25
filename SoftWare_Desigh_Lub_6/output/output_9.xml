@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <house number="11">
+    <entrance number="1" count="2" avr-debt="7245.64">
+      <debt flat="1" name="Иванов А.В.">7245.64</debt>
+      <debt flat="2" name="Иванов А.В.">7245.64</debt>
+    </entrance>
+    <entrance number="2" count="1" avr-debt="3245.64">
+      <debt flat="8" name="Иванов А.В.">3245.64</debt>
+    </entrance>
+    <entrance number="3" count="4" avr-debt="9495.64">
+      <debt flat="10" name="Иванов А.В.">15245.64</debt>
+      <debt flat="11" name="Иванов А.В.">15245.64</debt>
+    </entrance>
+    <entrance number="4" count="1" avr-debt="4245.64">
+      <debt flat="13" name="Иванов А.В.">4245.64</debt>
+    </entrance>
+    <entrance number="6" count="2" avr-debt="145.64">
+      <debt flat="22" name="Иванов А.В.">145.64</debt>
+      <debt flat="23" name="Иванов А.В.">145.64</debt>
+    </entrance>
+    <entrance number="8" count="1" avr-debt="6245.64">
+      <debt flat="32" name="Иванов А.В.">6245.64</debt>
+    </entrance>
+    <entrance number="9" count="1" avr-debt="6245.64">
+      <debt flat="33" name="Иванов А.В.">6245.64</debt>
+    </entrance>
+    <entrance number="13" count="1" avr-debt="2245.64">
+      <debt flat="52" name="Иванов А.В.">2245.64</debt>
+    </entrance>
+    <entrance number="14" count="1" avr-debt="2245.64">
+      <debt flat="53" name="Иванов А.В.">2245.64</debt>
+    </entrance>
+  </house>
+  <house number="12">
+    <entrance number="1" count="2" avr-debt="7245.64">
+      <debt flat="1" name="Иванов А.В.">7245.64</debt>
+      <debt flat="2" name="Иванов А.В.">7245.64</debt>
+    </entrance>
+    <entrance number="2" count="1" avr-debt="3245.64">
+      <debt flat="8" name="Иванов А.В.">3245.64</debt>
+    </entrance>
+    <entrance number="3" count="4" avr-debt="9495.64">
+      <debt flat="10" name="Иванов А.В.">15245.64</debt>
+      <debt flat="11" name="Иванов А.В.">15245.64</debt>
+    </entrance>
+    <entrance number="4" count="1" avr-debt="4245.64">
+      <debt flat="13" name="Иванов А.В.">4245.64</debt>
+    </entrance>
+    <entrance number="6" count="2" avr-debt="145.64">
+      <debt flat="22" name="Иванов А.В.">145.64</debt>
+      <debt flat="23" name="Иванов А.В.">145.64</debt>
+    </entrance>
+    <entrance number="8" count="1" avr-debt="6245.64">
+      <debt flat="32" name="Иванов А.В.">6245.64</debt>
+    </entrance>
+    <entrance number="9" count="1" avr-debt="6245.64">
+      <debt flat="33" name="Иванов А.В.">6245.64</debt>
+    </entrance>
+    <entrance number="13" count="1" avr-debt="2245.64">
+      <debt flat="52" name="Иванов А.В.">2245.64</debt>
+    </entrance>
+    <entrance number="14" count="1" avr-debt="2245.64">
+      <debt flat="53" name="Иванов А.В.">2245.64</debt>
+    </entrance>
+  </house>
+</root>

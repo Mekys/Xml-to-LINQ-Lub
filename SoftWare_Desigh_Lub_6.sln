@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SoftWare_Desigh_Lub_6", "SoftWare_Desigh_Lub_6\SoftWare_Desigh_Lub_6.csproj", "{2394A158-E05A-4F64-B37C-F407935B9F5E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2394A158-E05A-4F64-B37C-F407935B9F5E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2394A158-E05A-4F64-B37C-F407935B9F5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2394A158-E05A-4F64-B37C-F407935B9F5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2394A158-E05A-4F64-B37C-F407935B9F5E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {345F76D9-243B-426E-8CFA-CD3A33DD3DB5}
+	EndGlobalSection
+EndGlobal

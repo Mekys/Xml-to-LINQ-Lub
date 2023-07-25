@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <b2 company="Лидер" street="ул.Бульвар Гагарина" price="2200" />
+  <b2 company="Лидер" street="ул.Чехова" price="2200" />
+  <b2 company="Пермь" street="ул.Бульвар Гагарина" price="2200" />
+  <b2 company="Пермь" street="ул.Чехова" price="2200" />
+  <b52 company="Лидер" street="ул.Бульвар Гагарина" price="2200" />
+  <b52 company="Лидер" street="ул.Чехова" price="2200" />
+  <b52 company="Пермь" street="ул.Бульвар Гагарина" price="2200" />
+  <b52 company="Пермь" street="ул.Чехова" price="2200" />
+  <b62 company="Лидер" street="ул.Бульвар Гагарина" price="2200" />
+  <b62 company="Лидер" street="ул.Чехова" price="2200" />
+  <b62 company="Пермь" street="ул.Бульвар Гагарина" price="2200" />
+  <b62 company="Пермь" street="ул.Чехова" price="2200" />
+  <b78 company="Лидер" street="ул.Бульвар Гагарина" price="2200" />
+  <b78 company="Лидер" street="ул.Чехова" price="2200" />
+  <b78 company="Пермь" street="ул.Бульвар Гагарина" price="2200" />
+  <b78 company="Пермь" street="ул.Чехова" price="2200" />
+  <b90 company="Лидер" street="ул.Бульвар Гагарина" price="200" />
+  <b90 company="Лидер" street="ул.Чехова" price="200" />
+  <b90 company="Пермь" street="ул.Бульвар Гагарина" price="200" />
+  <b90 company="Пермь" street="ул.Чехова" price="200" />
+  <b92 company="Лидер" street="ул.Бульвар Гагарина" price="2200" />
+  <b92 company="Лидер" street="ул.Чехова" price="2200" />
+  <b92 company="Пермь" street="ул.Бульвар Гагарина" price="2200" />
+  <b92 company="Пермь" street="ул.Чехова" price="2200" />
+  <b99 company="Лидер" street="ул.Бульвар Гагарина" price="2200" />
+  <b99 company="Лидер" street="ул.Чехова" price="2200" />
+  <b99 company="Пермь" street="ул.Бульвар Гагарина" price="2200" />
+  <b99 company="Пермь" street="ул.Чехова" price="2200" />
+</root>

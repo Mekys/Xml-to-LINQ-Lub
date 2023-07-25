@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <b98>
+    <p2880>
+      <info street="ул.Авиаторов" company="Лидер" />
+    </p2880>
+    <p2850>
+      <info street="ул.Авиаторов" company="Лидер" />
+    </p2850>
+    <p285>
+      <info street="ул.Авиаторов" company="Лидер" />
+    </p285>
+    <p280>
+      <info street="ул.Авиаторов" company="Пермь" />
+    </p280>
+  </b98>
+  <b55>
+    <p2850>
+      <info street="ул.Авиаторов" company="Лидер" />
+    </p2850>
+    <p250>
+      <info street="ул.Авиаторов" company="Лидер" />
+    </p250>
+  </b55>
+  <b44>
+    <p5850>
+      <info street="ул.Авиаторов" company="Лидер" />
+    </p5850>
+    <p2850>
+      <info street="ул.Авиаторов" company="Лидер" />
+      <info street="ул.Авиаторов" company="Лидер" />
+    </p2850>
+    <p850>
+      <info street="ул.Авиаторов" company="Лидер" />
+    </p850>
+    <p280>
+      <info street="ул.Авиаторов" company="Лидер" />
+    </p280>
+    <p250>
+      <info street="ул.Чкалова" company="Лидер" />
+    </p250>
+  </b44>
+  <b38>
+    <p2850>
+      <info street="ул.Авиаторов" company="Лидер" />
+    </p2850>
+    <p2>
+      <info street="ул.Авиаторов" company="Лидер" />
+    </p2>
+  </b38>
+  <b9>
+    <p2850>
+      <info street="ул.Авиаторов" company="Лидер" />
+    </p2850>
+    <p285>
+      <info street="ул.Авиаторов" company="Лидер" />
+    </p285>
+    <p250>
+      <info street="ул.Авиаторов" company="Лидер" />
+    </p250>
+    <p50>
+      <info street="ул.Авиаторов" company="Лидер" />
+    </p50>
+  </b9>
+</root>

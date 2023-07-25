@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<house12>
+		<flat23 name="Иванов А.В." debt="145.64" />
+		<flat13 name="Иванов А.В." debt="4245.64" />
+		<flat53 name="Иванов А.В." debt="2245.64" />
+		<flat33 name="Иванов А.В." debt="6245.64" />
+		<flat2 name="Иванов А.В." debt="7245.64" />
+		<flat11 name="Иванов А.В." debt="15245.64" />
+		<flat9 name="Иванов А.В." debt="3245.64" />
+		<flat22 name="Иванов А.В." debt="145.64" />
+		<flat12 name="Иванов А.В." debt="4245.64" />
+		<flat52 name="Иванов А.В." debt="2245.64" />
+		<flat32 name="Иванов А.В." debt="6245.64" />
+		<flat1 name="Иванов А.В." debt="7245.64" />
+		<flat10 name="Иванов А.В." debt="15245.64" />
+		<flat8 name="Иванов А.В." debt="3245.64" />
+	</house12>
+	<house11>
+		<flat23 name="Иванов А.В." debt="145.64" />
+		<flat13 name="Иванов А.В." debt="4245.64" />
+		<flat53 name="Иванов А.В." debt="2245.64" />
+		<flat33 name="Иванов А.В." debt="6245.64" />
+		<flat2 name="Иванов А.В." debt="7245.64" />
+		<flat11 name="Иванов А.В." debt="15245.64" />
+		<flat9 name="Иванов А.В." debt="3245.64" />
+		<flat22 name="Иванов А.В." debt="145.64" />
+		<flat12 name="Иванов А.В." debt="4245.64" />
+		<flat52 name="Иванов А.В." debt="2245.64" />
+		<flat32 name="Иванов А.В." debt="6245.64" />
+		<flat1 name="Иванов А.В." debt="7245.64" />
+		<flat10 name="Иванов А.В." debt="15245.64" />
+		<flat8 name="Иванов А.В." debt="3245.64" />
+	</house11>
+</root>
